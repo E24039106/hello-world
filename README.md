@@ -1,6 +1,3 @@
 # hello-world
-h\n
-ee
-lll
-llll
-ooooo
+hello
+world
