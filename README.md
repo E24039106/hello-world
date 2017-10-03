@@ -1,2 +1,6 @@
 # hello-world
-hello
+h
+ee
+lll
+llll
+ooooo
